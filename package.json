@@ -7,7 +7,7 @@
     "start": "webpack-dev-server"
   },
   "dependencies": {
-    "immer": "^3.1.2",
+    "immer": "^8.0.1",
     "lit-element": "^2.1.0"
   },
   "devDependencies": {
